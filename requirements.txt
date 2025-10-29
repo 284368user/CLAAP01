@@ -1,0 +1,2 @@
+# Sphinx documentation requirements
+sphinx>=5.0.0
