@@ -227,7 +227,7 @@ Kluczowe zastosowanie
 ---------------------
 
 Debugowanie
-~~~~~~~~~~~
+^^^^^^^^^^^
 
 Struktura PEB jest wykorzystywana przez debugery do uzyskiwania
 kluczowych informacji o procesach, takich jak:
@@ -237,7 +237,7 @@ kluczowych informacji o procesach, takich jak:
 -  Parametry procesu.
 
 Analiza złośliwego oprogramowania
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 W kontekście analizy malware dane w PEB są wykorzystywane do:
 
@@ -247,7 +247,7 @@ W kontekście analizy malware dane w PEB są wykorzystywane do:
    działań.
 
 Monitorowanie procesów
-~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^
 
 Narzędzia, takie jak Process Explorer, korzystają z danych w PEB do
 prezentowania informacji o aktywnych procesach.
